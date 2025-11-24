@@ -1,11 +1,1 @@
-{
-  "name": "alexa-pastel-trailer",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "dependencies": {
-    "ask-sdk-core": "^2.12.0",
-    "body-parser": "^1.20.2",
-    "express": "^4.18.2"
-  }
-}
+{"name": "alexa-pastel-trailer","version": "1.0.0","main": "index.js","license": "MIT","dependencies": {"ask-sdk-core": "^2.12.0","body-parser": "^1.20.2","express": "^4.18.2"}}
